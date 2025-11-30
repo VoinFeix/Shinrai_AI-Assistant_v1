@@ -24,7 +24,7 @@ Built with Python and powered by OpenRouter AI (LLaMA 4 Maverick), Shinrai is yo
 ## 🚀 Installation
 1. Clone the Repository
 ```bash
-git clone https://github.com/DevManoj96/Shinrai_AI-Assistant_v1.git
+git clone https://github.com/VoinFeix/Shinrai_AI-Assistant_v1.git
 cd Shinrai_AI-Assistant_v1
 ```
 
